@@ -1,0 +1,277 @@
+date,region,confirmed,recovered,deaths,new_case,active
+05/05/2020,Fès-Meknès,665,307,26,3,332
+06/05/2020,Fès-Meknès,695,321,26,30,348
+07/05/2020,Fès-Meknès,721,345,26,26,350
+08/05/2020,Fès-Meknès,729,352,26,8,351
+09/05/2020,Fès-Meknès,812,365,26,83,421
+10/05/2020,Fès-Meknès,855,387,26,43,442
+11/05/2020,Fès-Meknès,889,403,26,34,460
+12/05/2020,Fès-Meknès,899,416,26,10,457
+13/05/2020,Fès-Meknès,911,424,26,12,461
+14/05/2020,Fès-Meknès,923,452,26,12,445
+15/05/2020,Fès-Meknès,928,468,26,5,434
+16/05/2020,Fès-Meknès,938,503,26,10,409
+17/05/2020,Fès-Meknès,945,535,26,7,384
+18/05/2020,Fès-Meknès,958,574,26,13,358
+19/05/2020,Fès-Meknès,960,629,26,2,305
+20/05/2020,Fès-Meknès,980,668,27,20,285
+21/05/2020,Fès-Meknès,984,702,27,4,255
+22/05/2020,Fès-Meknès,990,733,27,6,230
+23/05/2020,Fès-Meknès,992,754,27,2,211
+24/05/2020,Fès-Meknès,994,765,27,2,202
+25/05/2020,Fès-Meknès,995,769,27,1,199
+26/05/2020,Fès-Meknès,995,791,27,0,177
+05/05/2020,Beni Mellal-Khénifra,85,28,7,0,50
+06/05/2020,Beni Mellal-Khénifra,89,32,7,4,50
+07/05/2020,Beni Mellal-Khénifra,92,34,7,3,51
+08/05/2020,Beni Mellal-Khénifra,98,37,7,6,54
+09/05/2020,Beni Mellal-Khénifra,104,37,7,6,60
+10/05/2020,Beni Mellal-Khénifra,105,42,7,1,56
+11/05/2020,Beni Mellal-Khénifra,107,46,7,2,54
+12/05/2020,Beni Mellal-Khénifra,107,52,7,0,48
+13/05/2020,Beni Mellal-Khénifra,107,54,7,0,46
+14/05/2020,Beni Mellal-Khénifra,107,61,7,0,39
+15/05/2020,Beni Mellal-Khénifra,107,62,7,0,38
+16/05/2020,Beni Mellal-Khénifra,109,63,7,2,39
+17/05/2020,Beni Mellal-Khénifra,112,64,7,3,41
+18/05/2020,Beni Mellal-Khénifra,112,64,7,0,41
+19/05/2020,Beni Mellal-Khénifra,112,73,7,0,32
+20/05/2020,Beni Mellal-Khénifra,113,74,7,1,32
+21/05/2020,Beni Mellal-Khénifra,113,80,7,0,26
+22/05/2020,Beni Mellal-Khénifra,113,88,7,0,18
+23/05/2020,Beni Mellal-Khénifra,113,92,7,0,14
+24/05/2020,Beni Mellal-Khénifra,113,92,7,0,14
+25/05/2020,Beni Mellal-Khénifra,113,95,7,0,11
+26/05/2020,Beni Mellal-Khénifra,113,95,7,0,11
+05/05/2020,Casablanca-Settat,1362,324,46,56,992
+06/05/2020,Casablanca-Settat,1403,355,46,41,1002
+07/05/2020,Casablanca-Settat,1500,389,46,97,1065
+08/05/2020,Casablanca-Settat,1579,435,46,79,1098
+09/05/2020,Casablanca-Settat,1591,480,46,12,1065
+10/05/2020,Casablanca-Settat,1622,520,46,31,1056
+11/05/2020,Casablanca-Settat,1732,564,46,110,1122
+12/05/2020,Casablanca-Settat,1752,607,46,20,1099
+13/05/2020,Casablanca-Settat,1814,656,46,62,1112
+14/05/2020,Casablanca-Settat,1857,700,38,43,1119
+15/05/2020,Casablanca-Settat,1882,711,46,25,1125
+16/05/2020,Casablanca-Settat,1940,754,47,58,1139
+17/05/2020,Casablanca-Settat,2039,780,47,99,1224
+18/05/2020,Casablanca-Settat,2076,775,47,37,1261
+19/05/2020,Casablanca-Settat,2120,830,48,44,1242
+20/05/2020,Casablanca-Settat,2190,910,48,70,1232
+21/05/2020,Casablanca-Settat,2242,970,49,52,1223
+22/05/2020,Casablanca-Settat,2330,1002,49,88,1279
+23/05/2020,Casablanca-Settat,2385,1050,49,55,1286
+24/05/2020,Casablanca-Settat,2397,1237,49,12,1111
+25/05/2020,Casablanca-Settat,2458,1241,50,61,1167
+26/05/2020,Casablanca-Settat,2495,1314,50,37,1131
+05/05/2020,Daraa-Tafilalt,551,221,4,3,326
+06/05/2020,Daraa-Tafilalt,557,229,4,6,324
+07/05/2020,Daraa-Tafilalt,557,301,4,0,252
+08/05/2020,Daraa-Tafilalt,557,304,4,0,249
+09/05/2020,Daraa-Tafilalt,559,378,4,2,177
+10/05/2020,Daraa-Tafilalt,559,414,4,0,141
+11/05/2020,Daraa-Tafilalt,571,450,4,12,117
+12/05/2020,Daraa-Tafilalt,584,460,4,13,120
+13/05/2020,Daraa-Tafilalt,584,465,4,0,115
+14/05/2020,Daraa-Tafilalt,585,483,4,1,98
+15/05/2020,Daraa-Tafilalt,585,490,4,0,91
+16/05/2020,Daraa-Tafilalt,586,495,4,1,87
+17/05/2020,Daraa-Tafilalt,586,499,4,0,83
+18/05/2020,Daraa-Tafilalt,586,509,4,0,73
+19/05/2020,Daraa-Tafilalt,586,514,4,0,68
+20/05/2020,Daraa-Tafilalt,586,519,4,0,63
+21/05/2020,Daraa-Tafilalt,586,552,4,0,30
+22/05/2020,Daraa-Tafilalt,586,574,4,0,8
+23/05/2020,Daraa-Tafilalt,586,575,5,0,6
+24/05/2020,Daraa-Tafilalt,586,577,5,0,4
+25/05/2020,Daraa-Tafilalt,586,578,5,0,3
+26/05/2020,Daraa-Tafilalt,586,580,5,0,1
+05/05/2020,Dakhla-Oued Ed Dahab,2,0,0,0,2
+06/05/2020,Dakhla-Oued Ed Dahab,2,0,0,0,2
+07/05/2020,Dakhla-Oued Ed Dahab,2,2,0,0,0
+08/05/2020,Dakhla-Oued Ed Dahab,2,2,0,0,0
+09/05/2020,Dakhla-Oued Ed Dahab,2,2,0,0,0
+10/05/2020,Dakhla-Oued Ed Dahab,2,2,0,0,0
+11/05/2020,Dakhla-Oued Ed Dahab,2,2,0,0,0
+12/05/2020,Dakhla-Oued Ed Dahab,2,2,0,0,0
+13/05/2020,Dakhla-Oued Ed Dahab,2,2,0,0,0
+14/05/2020,Dakhla-Oued Ed Dahab,2,2,0,0,0
+15/05/2020,Dakhla-Oued Ed Dahab,2,2,0,0,0
+16/05/2020,Dakhla-Oued Ed Dahab,2,2,0,0,0
+17/05/2020,Dakhla-Oued Ed Dahab,2,2,0,0,0
+18/05/2020,Dakhla-Oued Ed Dahab,2,2,0,0,0
+19/05/2020,Dakhla-Oued Ed Dahab,2,2,0,0,0
+20/05/2020,Dakhla-Oued Ed Dahab,2,2,0,0,0
+21/05/2020,Dakhla-Oued Ed Dahab,5,2,0,3,3
+22/05/2020,Dakhla-Oued Ed Dahab,5,2,0,0,3
+23/05/2020,Dakhla-Oued Ed Dahab,5,2,0,0,3
+24/05/2020,Dakhla-Oued Ed Dahab,5,2,0,0,3
+25/05/2020,Dakhla-Oued Ed Dahab,5,2,0,0,3
+26/05/2020,Dakhla-Oued Ed Dahab,5,2,0,0,3
+05/05/2020,Guelmim-Oued Noun,39,0,0,0,39
+06/05/2020,Guelmim-Oued Noun,40,19,0,1,21
+07/05/2020,Guelmim-Oued Noun,41,22,0,1,19
+08/05/2020,Guelmim-Oued Noun,43,25,0,2,18
+09/05/2020,Guelmim-Oued Noun,43,25,0,0,18
+10/05/2020,Guelmim-Oued Noun,43,26,0,0,17
+11/05/2020,Guelmim-Oued Noun,43,28,0,0,15
+12/05/2020,Guelmim-Oued Noun,43,28,0,0,15
+13/05/2020,Guelmim-Oued Noun,43,29,0,0,14
+14/05/2020,Guelmim-Oued Noun,43,29,0,0,14
+15/05/2020,Guelmim-Oued Noun,43,29,0,0,14
+16/05/2020,Guelmim-Oued Noun,43,29,0,0,14
+17/05/2020,Guelmim-Oued Noun,43,34,0,0,9
+18/05/2020,Guelmim-Oued Noun,43,34,0,0,9
+19/05/2020,Guelmim-Oued Noun,43,34,0,0,9
+20/05/2020,Guelmim-Oued Noun,43,34,0,0,9
+21/05/2020,Guelmim-Oued Noun,43,39,0,0,4
+22/05/2020,Guelmim-Oued Noun,43,39,0,0,4
+23/05/2020,Guelmim-Oued Noun,43,40,0,0,3
+24/05/2020,Guelmim-Oued Noun,43,40,0,0,3
+25/05/2020,Guelmim-Oued Noun,43,40,0,0,3
+26/05/2020,Guelmim-Oued Noun,43,40,0,0,3
+05/05/2020,Laâyoune-Sakia El Hamra,4,4,0,0,0
+06/05/2020,Laâyoune-Sakia El Hamra,4,4,0,0,0
+07/05/2020,Laâyoune-Sakia El Hamra,4,4,0,0,0
+08/05/2020,Laâyoune-Sakia El Hamra,4,4,0,0,0
+09/05/2020,Laâyoune-Sakia El Hamra,4,4,0,0,0
+10/05/2020,Laâyoune-Sakia El Hamra,4,4,0,0,0
+11/05/2020,Laâyoune-Sakia El Hamra,4,4,0,0,0
+12/05/2020,Laâyoune-Sakia El Hamra,4,4,0,0,0
+13/05/2020,Laâyoune-Sakia El Hamra,4,4,0,0,0
+14/05/2020,Laâyoune-Sakia El Hamra,4,4,0,0,0
+15/05/2020,Laâyoune-Sakia El Hamra,4,4,0,0,0
+16/05/2020,Laâyoune-Sakia El Hamra,4,4,0,0,0
+17/05/2020,Laâyoune-Sakia El Hamra,4,4,0,0,0
+18/05/2020,Laâyoune-Sakia El Hamra,4,4,0,0,0
+19/05/2020,Laâyoune-Sakia El Hamra,4,4,0,0,0
+20/05/2020,Laâyoune-Sakia El Hamra,4,4,0,0,0
+21/05/2020,Laâyoune-Sakia El Hamra,4,4,0,0,0
+22/05/2020,Laâyoune-Sakia El Hamra,4,4,0,0,0
+23/05/2020,Laâyoune-Sakia El Hamra,4,4,0,0,0
+24/05/2020,Laâyoune-Sakia El Hamra,4,4,0,0,0
+25/05/2020,Laâyoune-Sakia El Hamra,4,4,0,0,0
+26/05/2020,Laâyoune-Sakia El Hamra,4,4,0,0,0
+05/05/2020,Marrakech-Safi,1091,588,50,15,453
+06/05/2020,Marrakech-Safi,1122,638,50,31,434
+07/05/2020,Marrakech-Safi,1139,690,50,17,399
+08/05/2020,Marrakech-Safi,1143,731,50,4,362
+09/05/2020,Marrakech-Safi,1176,741,50,33,385
+10/05/2020,Marrakech-Safi,1190,766,50,14,374
+11/05/2020,Marrakech-Safi,1206,808,50,16,348
+12/05/2020,Marrakech-Safi,1213,836,50,7,327
+13/05/2020,Marrakech-Safi,1227,861,50,14,316
+14/05/2020,Marrakech-Safi,1238,903,50,11,285
+15/05/2020,Marrakech-Safi,1240,924,50,2,266
+16/05/2020,Marrakech-Safi,1255,940,50,15,265
+17/05/2020,Marrakech-Safi,1262,960,50,7,252
+18/05/2020,Marrakech-Safi,1281,975,50,19,256
+19/05/2020,Marrakech-Safi,1294,981,50,13,263
+20/05/2020,Marrakech-Safi,1296,1016,50,2,230
+21/05/2020,Marrakech-Safi,1307,1024,50,11,233
+22/05/2020,Marrakech-Safi,1310,1061,51,3,198
+23/05/2020,Marrakech-Safi,1316,1093,51,6,172
+24/05/2020,Marrakech-Safi,1319,1111,51,3,157
+25/05/2020,Marrakech-Safi,1322,1123,51,3,148
+26/05/2020,Marrakech-Safi,1327,1143,51,5,133
+05/05/2020,Oriental,175,91,8,0,76
+06/05/2020,Oriental,175,95,8,0,72
+07/05/2020,Oriental,175,99,8,0,68
+08/05/2020,Oriental,175,111,8,0,56
+09/05/2020,Oriental,176,122,8,1,46
+10/05/2020,Oriental,176,128,8,0,40
+11/05/2020,Oriental,176,134,8,0,34
+12/05/2020,Oriental,176,139,8,0,29
+13/05/2020,Oriental,177,141,8,1,28
+14/05/2020,Oriental,177,142,8,0,27
+15/05/2020,Oriental,177,142,8,0,27
+16/05/2020,Oriental,178,143,8,1,27
+17/05/2020,Oriental,179,145,8,1,26
+18/05/2020,Oriental,179,146,8,0,25
+19/05/2020,Oriental,179,149,8,0,22
+20/05/2020,Oriental,180,153,8,1,19
+21/05/2020,Oriental,180,165,8,0,7
+22/05/2020,Oriental,180,167,8,0,5
+23/05/2020,Oriental,182,168,8,2,6
+24/05/2020,Oriental,186,171,8,4,7
+25/05/2020,Oriental,186,172,8,0,6
+26/05/2020,Oriental,186,177,8,0,1
+05/05/2020,Rabat-Salé-Kénitra,453,234,11,78,208
+06/05/2020,Rabat-Salé-Kénitra,480,234,11,27,235
+07/05/2020,Rabat-Salé-Kénitra,480,235,11,0,234
+08/05/2020,Rabat-Salé-Kénitra,480,245,11,0,224
+09/05/2020,Rabat-Salé-Kénitra,502,257,11,22,234
+10/05/2020,Rabat-Salé-Kénitra,549,297,11,47,241
+11/05/2020,Rabat-Salé-Kénitra,578,309,11,29,258
+12/05/2020,Rabat-Salé-Kénitra,648,330,11,70,307
+13/05/2020,Rabat-Salé-Kénitra,651,332,11,3,308
+14/05/2020,Rabat-Salé-Kénitra,661,345,11,10,305
+15/05/2020,Rabat-Salé-Kénitra,663,356,11,2,296
+16/05/2020,Rabat-Salé-Kénitra,663,378,11,0,274
+17/05/2020,Rabat-Salé-Kénitra,667,396,11,4,260
+18/05/2020,Rabat-Salé-Kénitra,668,400,11,1,257
+19/05/2020,Rabat-Salé-Kénitra,675,406,11,7,258
+20/05/2020,Rabat-Salé-Kénitra,680,411,11,5,258
+21/05/2020,Rabat-Salé-Kénitra,681,429,11,1,241
+22/05/2020,Rabat-Salé-Kénitra,687,454,11,6,222
+23/05/2020,Rabat-Salé-Kénitra,687,503,11,0,173
+24/05/2020,Rabat-Salé-Kénitra,688,546,11,1,131
+25/05/2020,Rabat-Salé-Kénitra,696,554,11,8,131
+26/05/2020,Rabat-Salé-Kénitra,696,565,11,0,120
+05/05/2020,Souss-Massa,52,25,7,1,20
+06/05/2020,Souss-Massa,53,26,7,1,20
+07/05/2020,Souss-Massa,57,27,7,4,23
+08/05/2020,Souss-Massa,60,32,7,3,21
+09/05/2020,Souss-Massa,67,32,7,7,28
+10/05/2020,Souss-Massa,69,33,7,2,29
+11/05/2020,Souss-Massa,71,33,7,2,31
+12/05/2020,Souss-Massa,71,34,7,0,30
+13/05/2020,Souss-Massa,71,37,7,0,27
+14/05/2020,Souss-Massa,72,40,7,1,25
+15/05/2020,Souss-Massa,75,41,7,3,27
+16/05/2020,Souss-Massa,75,43,7,0,25
+17/05/2020,Souss-Massa,77,44,7,2,26
+18/05/2020,Souss-Massa,77,44,7,0,26
+19/05/2020,Souss-Massa,77,47,7,0,23
+20/05/2020,Souss-Massa,78,47,7,1,24
+21/05/2020,Souss-Massa,83,49,7,5,27
+22/05/2020,Souss-Massa,85,49,7,2,29
+23/05/2020,Souss-Massa,85,52,7,0,26
+24/05/2020,Souss-Massa,85,52,7,0,26
+25/05/2020,Souss-Massa,87,54,7,2,26
+26/05/2020,Souss-Massa,87,54,7,0,26
+05/05/2020,Tanger-Tétouan-AlHoceima,740,179,23,10,538
+06/05/2020,Tanger-Tétouan-AlHoceima,761,188,25,21,548
+07/05/2020,Tanger-Tétouan-AlHoceima,780,206,24,19,550
+08/05/2020,Tanger-Tétouan-AlHoceima,841,228,27,61,586
+09/05/2020,Tanger-Tétouan-AlHoceima,874,237,27,33,610
+10/05/2020,Tanger-Tétouan-AlHoceima,889,242,29,15,618
+11/05/2020,Tanger-Tétouan-AlHoceima,902,262,29,13,611
+12/05/2020,Tanger-Tétouan-AlHoceima,918,276,29,16,613
+13/05/2020,Tanger-Tétouan-AlHoceima,921,305,29,3,587
+14/05/2020,Tanger-Tétouan-AlHoceima,938,316,31,17,591
+15/05/2020,Tanger-Tétouan-AlHoceima,946,326,31,8,589
+16/05/2020,Tanger-Tétouan-AlHoceima,948,353,32,2,563
+17/05/2020,Tanger-Tétouan-AlHoceima,953,378,32,5,543
+18/05/2020,Tanger-Tétouan-AlHoceima,966,415,32,13,519
+19/05/2020,Tanger-Tétouan-AlHoceima,971,443,32,5,496
+20/05/2020,Tanger-Tétouan-AlHoceima,981,490,33,10,458
+21/05/2020,Tanger-Tétouan-AlHoceima,983,550,34,2,399
+22/05/2020,Tanger-Tétouan-AlHoceima,999,559,34,16,406
+23/05/2020,Tanger-Tétouan-AlHoceima,1008,755,34,9,219
+24/05/2020,Tanger-Tétouan-AlHoceima,1013,784,34,5,195
+25/05/2020,Tanger-Tétouan-AlHoceima,1037,815,34,24,188
+26/05/2020,Tanger-Tétouan-AlHoceima,1040,847,36,3,157
+31/05/2020,Fès-Meknès,1001,933,27,1,41
+31/05/2020,Beni Mellal-Khénifra,116,97,7,1,12
+31/05/2020,Casablanca-Settat,2635,1505,51,16,1079
+31/05/2020,Daraa-Tafilalt,586,581,5,0,0
+31/05/2020,Dakhla-Oued Ed Dahab,5,2,0,0,3
+31/05/2020,Guelmim-Oued Noun,43,42,0,0,1
+31/05/2020,Laâyoune-Sakia El Hamra,5,4,0,1,1
+31/05/2020,Marrakech-Safi,1337,1235,52,0,50
+31/05/2020,Oriental,187,177,8,0,2
+31/05/2020,Rabat-Salé-Kénitra,703,626,11,1,66
+31/05/2020,Souss-Massa,89,76,7,1,6
+31/05/2020,Tanger-Tétouan-Al Hoceima,1100,931,37,6,132
