@@ -720,7 +720,7 @@
 07/07/2020,Souss-Massa,92,84,7,0,1
 07/07/2020,Tanger-Tétouan-Al Hoceima,2715,1704,55,43,956
 08/07/2020,Fès-Meknès,1641,1215,29,21,397
-08/07/2020,Beni Mellal-Khénifra,171,138,7,2,26
+08/07/2020,Beni Mellal-Khénifra,170,138,7,1,25
 08/07/2020,Casablanca-Settat,3767,2322,51,50,1394
 08/07/2020,Daraa-Tafilalt,586,581,5,0,0
 08/07/2020,Dakhla-Oued Ed Dahab,16,7,0,0,9
@@ -731,3 +731,15 @@
 08/07/2020,Rabat-Salé-Kénitra,2024,688,12,7,1324
 08/07/2020,Souss-Massa,92,84,7,0,1
 08/07/2020,Tanger-Tétouan-Al Hoceima,2758,2080,56,43,622
+09/07/2020,Fès-Meknès,1672,1240,29,31,403,
+09/07/2020,Beni Mellal-Khénifra,170,138,7,0,25,
+09/07/2020,Casablanca-Settat,3809,2322,51,42,1436,
+09/07/2020,Daraa-Tafilalt,586,581,5,0,0,
+09/07/2020,Dakhla-Oued Ed Dahab,16,10,0,0,6,
+09/07/2020,Guelmim-Oued Noun,131,72,3,6,56,
+09/07/2020,Laâyoune-Sakia El Hamra,777,341,1,49,435,
+09/07/2020,Marrakech-Safi,2664,1888,57,45,719,
+09/07/2020,Oriental,247,198,8,1,41,
+09/07/2020,Rabat-Salé-Kénitra,2027,688,12,3,1327,
+09/07/2020,Souss-Massa,97,85,7,5,5,
+09/07/2020,Tanger-Tétouan-Al Hoceima,2881,2183,56,123,642
